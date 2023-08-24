@@ -1,0 +1,27 @@
+	 [TITRE] l'inguistique
+
+
+[MENU]  Accueil linguistique
+        lingueindoeuropeene
+
+[SOUS-TITRE1] Qu’est-ce que la linguistique?
+
+Les langues indo-européennes sont une famille de langues apparentées qui sont aujourd'hui largement parlées en Amérique, en Europe, mais aussi dans l’ouest et le sud de l’Asie. De même que des langues comme l'espagnol, le français, le portugais et l'italien descendent toutes du latin, les langues indo-européennes dériveraient d'une langue hypothétique appelée proto-indo-européenne.
+
+[TABLEU] 
+Étude	       Moment de l'émergence
+
+Phonétique	3500 a.C
+Phonologie	1925 d.C
+Sémantique	1897 d.C
+Philologie	III a. C
+
+[SOUS-TITRE2] Érudits linguistiques
+
+[TABLEU]
+
+contributeur à l'étude de la linguistique	travail d'auteur
+
+Ferdinand de Saussure [1857-1913]	     Course general linguistics
+Frederic Skinner [1904-1990]	             Verbal Behavior
+Noam Chomsky [1928- ...]	             Syntactic Structures

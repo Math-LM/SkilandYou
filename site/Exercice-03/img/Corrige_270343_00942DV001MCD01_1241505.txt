@@ -1,0 +1,34 @@
+8/20
+
+Les exercices 1 et 2 sont approximativement corrects mais l'exercice 3 est complètement bâclé,
+ne correspond pas du tout à ce qu'il fallait faire.
+
+C'est un exercice de base, en début de formation.
+Dans votre intérêt, l'exercice est à refaire, afin de vous éviter de démarrer avec des lacunes.
+
+Ne soyez pas trop déçu. Pour les exercices 1 et 2, en peu de temps vous ajusterez ce qu'il faut ajuster.
+Pour l'exercice 3, il faut faire le travail sérieusement. Les liens sur la page d'accueil ne fonctionnent pas
+et les pages réalisées ne correspondent pas à ce qui est demandé.
+
+Exercice 1 : 2/5
+
+- il manque la feuille de style
+- le nom du dossier est "imagens" au lieu de "img" ou "images"
+- le nom de l'image "Noël Frémond.png" contient un espace et des caractères spéciaux,
+  ce qui est possible mais pas recommandé
+
+Exercice 2 : 6/10
+
+-1 <html lang="pt-br"> pourquoi "pt-br" ?
+-2 le code html n'est pas valide selon les normes du W3C
+    Validation HTML du W3C : https://validator.w3.org/
+    Validation CSS  du W3C : https://jigsaw.w3.org/css-validator/
+    Extension Visual Studio Code : W3C Web Validator / Celian Riboulet
+
+-1 Pourquoi avoir rendu le fichier linguisitque.txt ? Ce n'était pas nécessaire.
+
+
+Exercice 3 : 0/5
+
+- les liens de la page d'accueil ne fonctionnent pas
+- les pages réalisées ne correspondent pas du tout aux consignes données

@@ -1,0 +1,25 @@
+[TITRE] Les langues indoeuropéennes et les langages du Web
+
+[MENU] Page Accueil
+       Page linguistique
+
+[SOUS-TITRE1] Les langues indo-européennes
+
+[TEXTE] Les langues indo-européennes sont une famille de langues apparentées qui sont aujourd'hui largement parlées en Amérique, en Europe, mais aussi dans l’ouest et le sud de l’Asie. De même que des langues comme l'espagnol, le français, le portugais et l'italien descendent toutes du latin, les langues indo-européennes dériveraient d'une langue hypothétique appelée proto-indo-européenne
+
+Tout les langues indo-européennes possède de similitude e une grande importance dans la société moderne, comment systèmes de formation des mots, genre grammatical, systèmes de conjugaison verbale, communication internationale, littérature et culture, enseignement et éducation.
+
+La compréhension des langues indo-européennes peut nous aider à mieux appréhender l'histoire et la diversité linguistique de différentes régions du monde.
+
+[SOUS-TITRE2] Les langages du Web
+
+[TEXTE] Les langages du Web les plus couramment utilisés sont HTML, CSS et JavaScript. Chacun de ces langages joue un rôle essentiel dans la création de sites Web interactifs.
+
+[LISTE] 
+HTML est le langage de balisage de base utilisé pour structurer et organiser le contenu d'une page Web.
+CSS est un langage de feuille de style utilisé pour contrôler l'apparence et la mise en page d'une page Web.
+JavaScript est un langage de programmation polyvalent qui permet d'ajouter de l'interactivité et des fonctionnalités dynamiques à une page Web
+
+[TEXTE] En utilisant ces trois langages ensemble, les développeurs peuvent créer des sites Web complets et interactifs. HTML fournit la structure, CSS apporte le style et JavaScript ajoute la dynamique. Ensemble, ils offrent des expériences utilisateur engageantes et des fonctionnalités avancées sur le Web. Il est important de noter qu'il existe de nombreux autres langages et technologies complémentaires utilisés dans le développement Web, mais HTML, CSS et JavaScript constituent le trépied fondamental sur lequel repose la majorité des sites et des applications Web modernes
+
+La maîtrise des langages du Web est essentielle pour participer à la création et à la conception de sites Web modernes.

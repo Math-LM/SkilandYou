@@ -1,0 +1,12 @@
+[TITRE] Linguistique
+
+
+[MENU] lingueindoeuropeene
+       linguistique
+
+[SOUS-TITRE] Qu'est-ce que la linguistique ?
+
+[img]
+
+[TEXTE] La linguistique est l'étude scientifique du langage, par exemple la phonétique, la phonologie, la sémantique, etc. L'étude de la linguistique a commencé avec Ferdinand de Saussure, connu comme le père de la linguistique, il a commencé l'étudede la lingue à l'université, mais son premier livre explicatif sur la linguistique n'a été publié qu'en 1916, Le Course general linguistics.
+Pour en savoir un peu plus accéder à ma page "linguistique".

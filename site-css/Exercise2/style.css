@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    outline: 0px;
+    border: 0px;
+    font-family: Arial, Verdana, Sans-Serif;
+}
+:root{
+--rouge01: #aa3322; 
+--rouge02:#721717;
+--noir: #000000;
+--blanc: #ffff;
+--gris1: #cccccc;
+--gris2: #aaaaaa;
+--gris3: #ededed;
+}
+
+.iron{
+    padding: 10px 0px 0px 50px;
+}
+
+h1{
+    color:var(--rouge01);
+    font-size:20px;
+    padding: 0px 0px 0px 50px;
+}
+
+ul{
+    background-color: var(--rouge01);
+    font-size: 12px;
+    width: 960px;
+    height: 130px;
+}
+
+li{
+    margin: 1px 0px;    
+    border-bottom: 1px dashed var(--gris1);
+    padding-left: 50px;
+    padding-top: 6px;
+    color: var(--gris1);
+}
+
+li > a{
+    color: var(--gris1);
+}
+
+li > a:hover{
+    color: var(--blanc);
+}
+
+a{
+    color: var(--rouge01);
+    font-size: 14px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--gris2);
+    
+}
+
+h2{
+    color:var(--noir);
+    font-size: 24px;
+    padding: 10px 0px;
+    margin-top: 20px;
+}
+
+h3{
+    color:var(--noir);
+    font-size:18px;
+}
+
+p{
+    color: var(--noir);
+    font-size: 14px;
+}
+p.descrition-img{
+    margin: 10px 0px;
+}
+
+main{
+       max-width: 900px;
+       padding: 0px 50px 20px 50px;
+}
+
+
+table{
+    color: var(--noir);
+    font-size: 12px;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th{
+    font-size: 14px;
+}
+
+th, td{
+    border:1px solid var(--rouge01);
+    padding: 5px 35px;
+    
+}
+
+blockquote{
+    background-color: var(--gris3);
+    border: 2px dashed var(--rouge01);
+    color: var(--noir);
+    font-size: 16px;
+    width: 450px;
+    height: 70px;
+    margin: 10px;
+}
+blockquote > p{
+    padding: 15px;
+}
+#blockquote{
+    height: 50px;
+}
+.blockquote{
+    height:80px;
+    text-align: justify;
+}
+
+footer > p{
+    background-color: var(--gris2);
+    color: var(--rouge02);
+    font-size: 14px;
+    text-align: center;
+    width: 960px;
+    padding: 25px 0px 36px 0px;
+    margin-top: 10px;
+}
+
+div > img{
+    margin: 5px 10px 30px 0px;
+    border:1px solid var(--gris1);
+}
